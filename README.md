@@ -15,12 +15,8 @@ We propose a Sequence-to-Sequence model based on bidirectional LSTM with SELU ac
 
 
 ## Result
-![ResultTable](./Figures/water_fig/RESULT_TABLE.PNG#center)
+![ResultTable](./Figures/water_fig/RESULT_TABLE.PNG)
  
-img[src*='#center'] {
-    display: block;
-    margin: auto;
-}
 
 
 
