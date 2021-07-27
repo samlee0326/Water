@@ -11,11 +11,11 @@ Soyang Dam, the largest multi-purpose dam in Korea, faces water resource managem
 
 We propose a Sequence-to-Sequence model based on bidirectional LSTM with SELU activation function to predict the inflow rate over the next two days. 
 
-![ourModelImg](./Figures/water_fig/LSTM_TANH_SELU.PNG)
+![ourModelImg](./Figures/water_fig/LSTM_TANH_SELU.png)
 
 
 ## Result
-![ResultTable](./Figures/water_fig/RESULT_TABLE.PNG)
+![ResultTable](./Figures/water_fig/Result_Table.PNG)
  
 
 
