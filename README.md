@@ -25,8 +25,3 @@ We propose a Sequence-to-Sequence model based on bidirectional LSTM with SELU ac
 **Dam_daily_data, Dam_weather_data, Dam_Warning, and Processed_data files contains data**
 
 All executing files are numbered. Run all numbered files in order.
-
-
-```python
-
-```
