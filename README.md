@@ -20,7 +20,7 @@ We propose a Sequence-to-Sequence model based on bidirectional LSTM with SELU ac
 
 
 
-## Instructions / Note
+## Instruction / Note
 
 **Dam_daily_data, Dam_weather_data, Dam_Warning, and Processed_data files contains data**
 
